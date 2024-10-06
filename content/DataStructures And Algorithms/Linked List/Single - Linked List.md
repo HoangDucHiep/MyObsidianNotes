@@ -10,6 +10,7 @@ tags:
 
 ### Tạo single - linked list
 
-- Full code tạo lớp: [[https://github.com/HoangDucHiep/Coursera---Data-Structures-and-Algorithms-Specialization/blob/main/Data_Structures/data_structure_implementations/linked_list/c_sharp/LinkedList/SingleLinkedList.cs | Implement With C#]]
+- Code tạo lớp với C#: [Implement With C#](https://github.com/HoangDucHiep/Coursera---Data-Structures-and-Algorithms-Specialization/blob/main/Data_Structures/data_structure_implementations/linked_list/c_sharp/LinkedList/SingleLinkedList.cs)
+- Code tạo lớp với Python: [Implement with Python](https://github.com/HoangDucHiep/Coursera---Data-Structures-and-Algorithms-Specialization/blob/main/Data_Structures/data_structure_implementations/linked_list/python/sllist.py)
 #### Time Complexity của các operations
 - Done later
