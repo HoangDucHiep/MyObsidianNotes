@@ -1,7 +1,9 @@
 ---
 title: Hiep Place
-tags:
-  - Mạng-Máy-Tính
+tags: []
 ---
-## Mạng máy tính
+## Navigation
+#### [[DataStructure And Algorithms]]
+- [[Array]]
+#### [[Mạng máy tính]]
 - [[Config IP Router]]
