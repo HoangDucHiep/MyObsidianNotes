@@ -17,3 +17,4 @@ tags:
 	|End     | O(1)    | O(1)    | O(1) |
 	|Middel     | O(n)    | O(n)    | O(1) |
 	Vậy array có thời gian truy cập ***hằng số (constant)***, và thời gian thêm bớt worst case là ***tuyến tính (linear)***
+	
