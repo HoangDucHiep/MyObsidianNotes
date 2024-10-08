@@ -1,8 +1,7 @@
 ---
 title: Tree 🌳
 tags:
-  - DS-Al
-  - Tree-DS
+  - Datastructure-and-Algorithm
 ---
 #### Tree là gì
 > - Tree là một cấu trúc dữ liệu lưu trữ dữ liệu theo thứ bậc (hierarchically) thay vì tuyến tính (linear) - chẳng hạn như [[Linked List]]

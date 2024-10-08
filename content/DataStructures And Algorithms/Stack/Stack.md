@@ -1,7 +1,7 @@
 ---
 title: Stack
 tags:
-  - DS-Al
+  - Datastructure-and-Algorithm
 ---
 >***<span style="color:rgb(135, 70, 200)">Stack***</span> là cấu trúc dữ liệu tập hợp hỗ trợ ***FILO (First In Last Out)***
 

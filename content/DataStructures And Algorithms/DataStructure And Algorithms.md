@@ -1,7 +1,7 @@
 ---
 title: DataStructure And Algorithms
 tags:
-  - DS-Al
+  - Datastructure-and-Algorithm
 ---
 ## Navigation
 #### Array and Linked-List

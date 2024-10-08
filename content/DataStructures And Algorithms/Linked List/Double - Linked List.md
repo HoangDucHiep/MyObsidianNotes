@@ -1,8 +1,7 @@
 ---
 title: Double - Linked List
 tags:
-  - DS-Al
-  - Linked-List
+  - Datastructure-and-Algorithm
 ---
 > Là linked list mà mỗi node có cả giá trị của node và địa chỉ của node tiếp theo, và cả địa chỉ của node trước nó trong list
 

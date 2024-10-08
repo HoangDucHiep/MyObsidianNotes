@@ -1,8 +1,7 @@
 ---
 title: Single - Linked List
 tags:
-  - DS-Al
-  - Linked-List
+  - Datastructure-and-Algorithm
 ---
 > Là linked list mà mỗi node chỉ có giá trị của node và địa chỉ của node tiếp theo trong list
 

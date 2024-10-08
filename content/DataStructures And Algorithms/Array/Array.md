@@ -1,7 +1,7 @@
 ---
 title: Array
 tags:
-  - DS-Al
+  - Datastructure-and-Algorithm
 ---
 ### Mảng là gì?
 
