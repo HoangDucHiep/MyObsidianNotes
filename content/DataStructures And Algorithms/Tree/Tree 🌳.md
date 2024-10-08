@@ -11,7 +11,7 @@ tags:
 > 	- hoặc là node, trong đó mỗi node chứa giá trị (key), và các cây con
 
 - Ví dụ:
-	![[Drawing 2024-10-08 21.22.04.excalidraw.svg]]
+	
 #### Một số thuật ngữ
 - ***<span style="color:rgb(135, 70, 200)">Root***:</span> Là node gốc, node trên cùng (Là node 'Fred' ở ví dụ trên)
 - ***<span style="color:rgb(135, 70, 200)">Child*** </span>là con trực tiếp của một Parent:
@@ -40,4 +40,4 @@ tags:
 #### Tạo tree 🌱
 > [Source code C# và Python](https://github.com/HoangDucHiep/Coursera---Data-Structures-and-Algorithms-Specialization/tree/main/Data_Structures/data_structure_implementations/tree)
 
-[[Drawing 2024-10-08 21.22.04.excalidraw.svg | Giải thích]]
+[[Drawing 2024-10-08 21.22.04.excalidraw.svg | Draw note]]
