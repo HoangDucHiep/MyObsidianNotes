@@ -39,4 +39,4 @@ tags:
 
 #### Tạo tree 🌱
 > [Source code C# và Python](https://github.com/HoangDucHiep/Coursera---Data-Structures-and-Algorithms-Specialization/tree/main/Data_Structures/data_structure_implementations/tree)
-- [[Drawing 2024-10-08 21.22.04.excalidraw | Giải thích :))]]
+![[Drawing 2024-10-08 21.22.04.excalidraw.svg]]
