@@ -11,5 +11,4 @@ tags:
 - Khi sử dụng based-0, ta có đặc điểm sau:
 	- Parent = $\lfloor \frac{i - 1}{2} \rfloor$
 	- Left Child = $2\times i + 1$
-	- Right Child = $2\times i + 2$
-		![[Drawing 2024-10-12 11.59.44.excalidraw 1.svg]]
+	- Right Child = $2\times i + 2$![[Drawing 2024-10-12 11.59.44.excalidraw.svg]]
