@@ -1,7 +1,8 @@
 ---
 date: 2024-10-02T14:30
 tags:
-  - Datastructure-and-Algorithm
+  - Algorithms
+  - DataStructures
 cssclasses:
   - center-images
 ---

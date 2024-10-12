@@ -2,7 +2,7 @@
 title: Hiep Place
 ---
 ## Navigation
-#### #Datastructure-and-Algorithm
+#### #DataStructures And #Algorithms 
 - [[Array]]
 - [[Linked List]]
 - [[Priority Queue 🤔]]

@@ -1,7 +1,7 @@
 ---
 title: Binary Heap 🙀
 tags:
-  - Datastructure-and-Algorithm
+  - DataStructures
 ---
 ### Binary Heap là gì?
 > Binary Heap là một [[Binary Tree 🌱| Cây nhị phân]], với giá trị của mỗi node ***không nhỏ hơn*** giá trị các node con của nó  

@@ -1,7 +1,7 @@
 ---
 title: Single - Linked List
 tags:
-  - Datastructure-and-Algorithm
+  - DataStructures
 ---
 > Là linked list mà mỗi node chỉ có giá trị của node và địa chỉ của node tiếp theo trong list
 

@@ -1,7 +1,7 @@
 ---
 title: Priority Queue
 tags:
-  - Datastructure-and-Algorithm
+  - DataStructures
 ---
 ### Priority Queue là gì?
 - Là một cấu trúc danh sách (Tương tư Queue và Stack), nhưng mỗi phần tử của nó được gán với một Priority (Độ ưu tiên). 

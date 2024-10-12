@@ -1,7 +1,7 @@
 ---
 title: Linked List
 tags:
-  - Datastructure-and-Algorithm
+  - DataStructures
 ---
 >Linked List (Danh sách liên kết) là một tập hợp tuyến tính các node, mỗi node sẽ chứa dữ liệu của node và địa chỉ của node tiếp theo trong danh sách
 

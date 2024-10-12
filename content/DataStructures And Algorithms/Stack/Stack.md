@@ -1,13 +1,13 @@
 ---
 title: Stack
 tags:
-  - Datastructure-and-Algorithm
+  - DataStructures
 ---
 >***<span style="color:rgb(135, 70, 200)">Stack***</span> là cấu trúc dữ liệu tập hợp hỗ trợ ***FILO (First In Last Out)***
 
 #### Ví dụ sử dụng stack
 - [Bài toán check ngoặc](https://leetcode.com/problems/valid-parentheses/description/)
-- My solution:
+- Solution:
 ``` c#
 public class Solution {
     public bool IsValid(string s) {

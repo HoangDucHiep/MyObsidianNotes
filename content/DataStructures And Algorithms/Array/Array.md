@@ -1,7 +1,7 @@
 ---
 title: Array
 tags:
-  - Datastructure-and-Algorithm
+  - DataStructures
 ---
 ### Mảng là gì?
 
