@@ -31,7 +31,7 @@ tags:
 	- Đổi chỗ phần tử i với phần tử cuối
 	- Xóa phần tử cuối (giảm size)
 	- Gọi SiftDown cho phần tử i để đẩy nó xuống vị trí đúng
-		>  ❗Lưu ý: ta không cần dùng SiftUp vì bản thân phần tử tại i hiên tại chính là phần tử cuối cùng (Và là phần tử nhỏ hơn phần tử tại i), nên nó không thể lớn hơn cha của i
+		>  ❗***<span style="color:rgb(255, 0, 0)">Lưu ý***</span>: ta không cần dùng SiftUp vì bản thân phần tử tại i hiên tại chính là phần tử cuối cùng (Và là phần tử nhỏ hơn phần tử tại i), nên nó không thể lớn hơn cha của i
 		
 ##### Implement Code
 - [Implement with C# and Python](https://github.com/HoangDucHiep/Coursera---Data-Structures-and-Algorithms-Specialization/tree/main/Data_Structures/data_structure_implementations/priority_queue)
