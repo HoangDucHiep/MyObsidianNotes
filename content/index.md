@@ -3,7 +3,7 @@ title: Hiep Place
 tags: []
 ---
 ## Navigation
-#### [[DataStructure And Algorithms]]
+#### #Datastructure-and-Algorithm 
 - [[Array]]
 - [[Linked List]]
 - [[Priority Queue 🤔]]
