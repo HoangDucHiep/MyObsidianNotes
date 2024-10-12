@@ -10,12 +10,12 @@ tags:
 - Ví dụ với MaxPQ
 ##### Các thao tác
 - GetMax: Trả về phần tử có độ ưu tiên cao nhất trong PQ
-	- Trả về phần tử đầu tiên![[Excalidraw/Drawing 2024-10-12 11.59.44.excalidraw.svg]]
+	- Trả về phần tử đầu tiên![[Drawing 2024-10-12 11.59.44.excalidraw 1.svg]]
 - SiftUp: Đẩy phần tử lên trên tới khi đúng vị trí hợp lệ
 	- So sánh phần tử thứ i với cha của nó, nếu phần tử cha nhỏ hơn phần tử i, đổi chỗ chúng cho nhau
 	- Set i tới phần tử cha
-	- Tiếp tục lặp đến khi phần tử cha đảm bảo không nhỏ hơn phần tử con![[Excalidraw/Drawing 2024-10-12 11.59.44.excalidraw.svg]]
-- SiftDown: Đẩy phần tử xuống dưới tới khi đúng vị trí hợp lệ![[DataStructures And Algorithms/Tree/Heap.svg]]
+	- Tiếp tục lặp đến khi phần tử cha đảm bảo không nhỏ hơn phần tử con![[Drawing 2024-10-12 11.59.44.excalidraw 1.svg]]
+- SiftDown: Đẩy phần tử xuống dưới tới khi đúng vị trí hợp lệ![[Heap 1.svg]]
 - Insert: Thêm phần tử mới vào PQ
 	- Chỉ cần thêm phần tử mới và cuối danh sách
 	- Sau đó gọi SiftUp để đẩy phần tử lên vị trí thích hợp
@@ -32,3 +32,6 @@ tags:
 	- Xóa phần tử cuối (giảm size)
 	- Gọi SiftDown cho phần tử i để đẩy nó xuống vị trí đúng
 		>  ❗Lưu ý: ta không cần dùng SiftUp vì bản thân phần tử tại i hiên tại chính là phần tử cuối cùng (Và là phần tử nhỏ hơn phần tử tại i), nên nó không thể lớn hơn cha của i
+		
+##### Implement Code
+- [Implement with C# and Python](https://github.com/HoangDucHiep/Coursera---Data-Structures-and-Algorithms-Specialization/tree/main/Data_Structures/data_structure_implementations/priority_queue)
