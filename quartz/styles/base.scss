@@ -319,7 +319,8 @@ h5,
 h6,
 thead {
   font-family: var(--headerFont);
-  color: var(--dark);
+  /* color: var(--dark); */
+  color:rgb(213, 121, 255)
   font-weight: revert;
   margin-bottom: 0;
 
