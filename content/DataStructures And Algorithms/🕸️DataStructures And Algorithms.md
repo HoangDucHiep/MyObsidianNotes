@@ -3,6 +3,7 @@ title: 🕸️DataStructures
 node_size: "3"
 tags:
   - DataStructures
+  - Algorithms
 ---
 ### Analysis
 - [[🔢Armotized Analysis]]
