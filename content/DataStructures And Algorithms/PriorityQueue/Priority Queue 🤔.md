@@ -3,10 +3,10 @@ title: Priority Queue
 tags:
   - DataStructures
 ---
-### <mark style="background: #FFB8EBA6;">Priority Queue là gì?</mark>
+### Priority Queue là gì?
 - Là một cấu trúc danh sách (Tương tư Queue và Stack), nhưng mỗi phần tử của nó được gán với một Priority (Độ ưu tiên). 
 - Trong PQ, phần của nào có độ ưu tiên cao hơn sẽ được phục vụ trước![[Introduction.webp]]
-### <mark style="background: #FFB8EBA6;">Tạo PQ với</mark> [[Binary Heap 🙀]]
+### Tạo PQ với [[Binary Heap 🙀]]
 - Ví dụ với MaxPQ
 ##### Các thao tác
 - GetMax: Trả về phần tử có độ ưu tiên cao nhất trong PQ
@@ -33,7 +33,7 @@ tags:
 	- Gọi SiftDown cho phần tử i để đẩy nó xuống vị trí đúng
 		>  ❗***<span style="color:rgb(255, 0, 0)">Lưu ý***</span>: ta không cần dùng SiftUp vì bản thân phần tử tại i hiên tại chính là phần tử cuối cùng (Và là phần tử nhỏ hơn phần tử tại i), nên nó không thể lớn hơn cha của i
 		
-### <mark style="background: #FFB8EBA6;">Implement Code</mark>
+### Implement Code
 - [Implement with C# and Python](https://github.com/HoangDucHiep/Coursera---Data-Structures-and-Algorithms-Specialization/tree/main/Data_Structures/data_structure_implementations/priority_queue)
 
-### <mark style="background: #FFB8EBA6;">Ứng dụng</mark>
+### Ứng dụng
