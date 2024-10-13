@@ -5,6 +5,7 @@ tags:
   - DataStructures
 cssclasses:
   - center-images
+title: 🔢Armotized Analysis
 ---
 ## <span style="color:rgb(112, 48, 160)">Định nghĩa</span>
 - <mark style="background: #D2B3FFA6;">Armotized analysis</mark> là phương pháp phân tích chi phí của <mark style="background: #D2B3FFA6;">một thao tác</mark> trong một <mark style="background: #D2B3FFA6;">chuỗi <span style="color:rgb(112, 48, 160)">n</span> các operations</mark> và bằng tổng chi phí chia cho <span style="color:rgb(112, 48, 160)">n</span>

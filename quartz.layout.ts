@@ -38,11 +38,11 @@ export const defaultContentPageLayout: PageLayout = {
         scale: 1.1, // default view scale
         repelForce: 3, // how much nodes should repel each other
         centerForce: 1.5, // how much force to use when trying to center the nodes
-        linkDistance: 25, // how long should the links be by default?
+        linkDistance: 15, // how long should the links be by default?
         fontSize: 0.6, // what size should the node labels be?
         opacityScale: 1, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
-        showTags: true, // whether to show tags in the graph
+        showTags: false, // whether to show tags in the graph
       },
       globalGraph: {
         drag: true,
@@ -51,11 +51,11 @@ export const defaultContentPageLayout: PageLayout = {
         scale: 1.1,
         repelForce: 3,
         centerForce: 1.5,
-        linkDistance: 25,
+        linkDistance: 15,
         fontSize: 0.6,
         opacityScale: 1,
         removeTags: [], // what tags to remove from the graph
-        showTags: true, // whether to show tags in the graph
+        showTags: false, // whether to show tags in the graph
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),

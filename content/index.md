@@ -1,5 +1,6 @@
 ---
 title: Hiep Place
+node_size: "10"
 ---
 ## Navigation
 #### #DataStructures And #Algorithms 
