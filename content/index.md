@@ -5,6 +5,6 @@ date: 2024-09-20T14:40
 ---
 ## Navigation
 #### [[🕸️DataStructures And Algorithms]]
-#### [[ASP.NET Core MVC]]
+#### [[🌍ASP.NET Core MVC]]
 #### Mạng máy tính
 - [[Config IP Router]]
